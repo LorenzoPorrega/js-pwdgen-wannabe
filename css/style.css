@@ -1,0 +1,19 @@
+/* GENERAL STYLES */
+
+main{
+    background-image: url(../img/bg.jpg);
+    background-size: contain;
+    height: 100vh;
+}
+
+table.table-bordered{
+    border:1px solid rgb(156, 141, 29);
+}
+
+table.table-bordered > thead > tr > th{
+    border:1px solid rgb(156, 141, 29);
+}
+
+table.table-bordered > tbody > tr > td{
+    border:1px solid rgb(156, 141, 29);
+}
